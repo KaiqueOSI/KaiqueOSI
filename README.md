@@ -1,7 +1,8 @@
 ### Olá Sou o Kaique
 
 - 🔭 Atualmente Trabalho com Front-End
-- 🌱 Estudando Python
+- 🎓 Cursando Engenharia de Software - Unicesumar
+- 🌱 Cursando Programação em Python - Senai
 - 📫 Meu e-mail: oliveirakaique752@gmail.com
 - 😄 Pronomes: Ele;Dele
 
