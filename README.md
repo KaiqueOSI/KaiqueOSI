@@ -5,7 +5,6 @@
 - 📫 Meu e-mail: oliveirakaique752@gmail.com
 - 😄 Pronomes: Ele;Dele
 
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -18,4 +17,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br/>
+
+
+
   
