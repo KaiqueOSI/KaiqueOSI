@@ -4,7 +4,6 @@
 - 🎓 Cursando Engenharia de Software - Unicesumar
 - 🌱 Cursando Programação em Python - Senai
 - 📫 Meu e-mail: oliveirakaique752@gmail.com
-- 😄 Pronomes: Ele;Dele
 
 ## Tecnologias que eu uso no meu dia
 
