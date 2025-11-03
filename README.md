@@ -1,9 +1,76 @@
-## Olá Sou o Kaique, Seja Bem-Vindo
+# 👋 Olá, eu sou o Kaique Oliveira  
 
-- 🔭 Atualmente Trabalho com Front-End
-- 🎓 Cursando Engenharia de Software - Unicesumar
-- 🌱 Cursando Programação em Python - Senai
-- 📫 Meu e-mail: oliveirakaique752@gmail.com
+🎓 Técnico em Desenvolvimento de Sistemas | 💼 Estudante de Gestão Empresarial  
+💡 Apaixonado por unir **Tecnologia e Gestão** para gerar **eficiência, inovação e resultados mensuráveis**.  
+
+---
+
+## 🧭 Sobre mim  
+Sou profissional da área de tecnologia com foco em **desenvolvimento de sistemas e gestão de negócios**.  
+Atuo na criação de **soluções digitais que otimizam processos empresariais**, aplicando conceitos de **análise de dados, automação e gestão estratégica**.  
+
+Gosto de trabalhar em projetos que unem **visão técnica e visão gerencial**, aplicando metodologias como **BPMN, SWOT, 5W2H, Kanban, Scrum e ITIL 4**.
+
+---
+
+## ⚙️ Competências Técnicas  
+
+**💻 Desenvolvimento:**  
+- Python | JavaScript | SQL | HTML | CSS  
+- Versionamento com Git & GitHub  
+
+**📊 Gestão & Negócios:**  
+- Planejamento Estratégico  
+- Análise SWOT e 5W2H  
+- BPMN (Modelagem de Processos)  
+- Indicadores de Desempenho (KPI)  
+- Gestão de Projetos (Scrum | Kanban | PDCA)
+
+**☁️ Ferramentas & Plataformas:**  
+- Google Cloud | Power BI | Trello | Notion | GitHub Projects  
+
+---
+
+## 🚀 Projetos que unem TI + Gestão Empresarial  
+
+| 🗂️ Projeto | 💬 Descrição | 🔧 Tecnologias | 📈 Abordagem de Gestão |
+|-------------|--------------|----------------|------------------------|
+| **📦 Sistema de Controle de Vendas** | Aplicação para registrar pedidos, clientes e relatórios de desempenho | Python, Flask, SQLite | Aplicação do ciclo PDCA e métricas de vendas |
+| **📊 Dashboard Empresarial** | Painel Power BI com indicadores financeiros e operacionais | Power BI, SQL, Excel | Gestão por indicadores (KPI) |
+| **🤖 Automação de RH** | Script para triagem automatizada de currículos e dados | Python, Pandas | Alinhado a práticas de People Analytics |
+| **🧩 Processos BPMN – Logística** | Modelagem visual de fluxo de entregas e controle de estoque | Bizagi, Draw.io | Melhoria de processos e eficiência operacional |
+| **📋 Gestão Ágil no GitHub Projects** | Template Kanban para gestão de times e tarefas | GitHub Projects | Aplicação de Scrum e Kanban na prática |
+
+---
+
+## 🧠 Filosofia Profissional  
+
+> “A tecnologia é uma ponte — a gestão é o caminho que nos leva ao resultado.”  
+
+🎯 Busco sempre conectar **inovação tecnológica** com **estratégias de negócios**,  
+transformando **dados em decisões** e **processos em resultados**.
+
+---
+
+## 🧩 Como contribuo em equipes  
+
+- 🔍 Traduzo problemas empresariais em soluções técnicas.  
+- 🧭 Estruturo processos claros e otimizados.  
+- ⚙️ Crio automações que reduzem tempo e aumentam produtividade.  
+- 📈 Acompanho resultados com base em métricas e indicadores.  
+
+---
+
+## 📫 Contato  
+
+📍 Registro - SP, Brasil  
+💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
+📧 seuemail@exemplo.com  
+🌐 [Portfólio ou site (opcional)](https://seusite.com)  
+
+---
+
+### 🌟 *“Gestão orienta. Tecnologia executa. Juntas, transformam negócios.”*
 
 ## Tecnologias que eu uso no meu dia
 
