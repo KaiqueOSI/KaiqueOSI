@@ -60,7 +60,7 @@ transformando **dados em decisões** e **processos em resultados**.
 ## 📫 Contato  
 
 📍 Registro - SP, Brasil  
-💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
+💼 [LinkedIn](https://www.linkedin.com/in/kaique-oliveira-silva/)  
 📧 oliveirakaique752@gmail.com
 
 ---
