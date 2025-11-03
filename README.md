@@ -17,7 +17,6 @@ Gosto de trabalhar em projetos que unem **visão técnica e visão gerencial**, 
 
 **💻 Desenvolvimento:**  
 - Python | JavaScript | SQL | HTML | CSS  
-- Versionamento com Git & GitHub  
 
 **📊 Gestão & Negócios:**  
 - Planejamento Estratégico  
@@ -27,11 +26,11 @@ Gosto de trabalhar em projetos que unem **visão técnica e visão gerencial**, 
 - Gestão de Projetos (Scrum | Kanban | PDCA)
 
 **☁️ Ferramentas & Plataformas:**  
-- Google Cloud | Power BI | Trello | Notion | GitHub Projects  
+- Google Cloud | Power BI | Trello | Notion   
 
 ---
 
-## 🚀 Projetos que unem TI + Gestão Empresarial  
+## 🚀 Projetos que unem Tecnologia + Gestão Empresarial  
 
 | 🗂️ Projeto | 💬 Descrição | 🔧 Tecnologias | 📈 Abordagem de Gestão |
 |-------------|--------------|----------------|------------------------|
@@ -43,9 +42,6 @@ Gosto de trabalhar em projetos que unem **visão técnica e visão gerencial**, 
 
 ---
 
-## 🧠 Filosofia Profissional  
-
-> “A tecnologia é uma ponte — a gestão é o caminho que nos leva ao resultado.”  
 
 🎯 Busco sempre conectar **inovação tecnológica** com **estratégias de negócios**,  
 transformando **dados em decisões** e **processos em resultados**.
@@ -65,12 +61,9 @@ transformando **dados em decisões** e **processos em resultados**.
 
 📍 Registro - SP, Brasil  
 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-📧 seuemail@exemplo.com  
-🌐 [Portfólio ou site (opcional)](https://seusite.com)  
+📧 oliveirakaique752@gmail.com
 
 ---
-
-### 🌟 *“Gestão orienta. Tecnologia executa. Juntas, transformam negócios.”*
 
 ## Tecnologias que eu uso no meu dia
 
